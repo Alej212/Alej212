@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Alej</h1>
+<h3 align="center">A passionate fullstack developer</h3>
 
-<!--
-**Alej212/Alej212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-Here are some ideas to get you started:
+<h3 align="left">Frontend Stack</h3>
+<p align="left"> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Backend Stack</h3>
+<p align="left"> </p>
+
+<h3 align="left">Testing Stack</h3>
+<p align="left"> </p>
+
+<h3 align="left">Data Stack</h3>
+<p align="left"> </p>
