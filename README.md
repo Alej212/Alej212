@@ -4,7 +4,7 @@
 <h3 align="left">My skills</h3>
 
 <ul>
-  <li>Frontend:</li>
+  <li>Frontend:</li><p>Vue,</p>
   <li>Backend:</li>
   <li>Game Development:</li>
   <li>AI & ML:</li>
