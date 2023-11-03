@@ -4,11 +4,11 @@
 <h3 align="left">My skills</h3>
 
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Frontend:</li>
+  <li>Backend:</li>
+  <li>Game Development:</li>
+  <li>AI & ML:</li>
+  <li>Data Analyst:</li>
 </ul>
 
 
