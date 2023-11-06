@@ -5,38 +5,45 @@
 
 <ul>
   <div>
-    <li>Frontend:</li>
+    <strong><li>Frontend:</li></strong>
     <p>
-    - Vue, Sass, Ionic, Nuxt, Vite </br>
-    - Javascript, Css, Html
+    - Vue | Sass | Ionic | Nuxt | Vite </br>
+    - Javascript | Css | Html
     </p>
   </div>
   </br>
   <div>
-    <li>Backend:</li>
+    <strong><li>UI & UX:</li></strong>
+    <p>
+    - Figma </br>
+    </p>
+  </div>
+  </br>
+  <div>
+    <strong><li>Backend:</li></strong>
     <p> 
-      - Express, Node JS, PostgreSQL, Mongo DB, Firebase, Supabase
+      - Express | Node JS | Django | PostgreSQL | Mongo DB | Firebase | Supabase
     </p>
   </div>
   </br>
   <div>
-    <li>Game Development:</li>
+    <strong><li>Game Development:</li></strong>
     <p>
       - Godot engine
     </p>
   </div>
   </br>
   <div>
-    <li>AI & ML:</li>
+    <strong><li>AI & AA & ML:</li></strong>
     <p>
-      - Tensorflow, Keras, Scikit learn
+      - Tensorflow | Keras | Scikit learn
     </p>
   </div>
   </br>
   <div>
-    <li>Data Analyst:</li>
+    <strong><li>Data Analyst:</li></strong>
     <p>
-      - Numpy, Pandas, Pyplot, Seaborn, Matplotlib
+      - Numpy | Pandas | Pyplot | Seaborn | Matplotlib
     </p>
   </div>
 </ul>
