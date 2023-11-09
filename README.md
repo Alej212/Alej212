@@ -7,7 +7,7 @@
   <div>
     <strong><li>Frontend:</li></strong>
     <p>
-    - Vue | Sass | Ionic | Nuxt | Vite </br>
+    - Vue | Sass | Ionic | Nuxt | Vite | Tailwind | Bootstrap </br>
     - Javascript | Css | Html
     </p>
   </div>
